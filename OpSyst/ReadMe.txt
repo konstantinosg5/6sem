@@ -1,4 +1,4 @@
-                               INTRODUCTION OPERATING SYSTEMS  -  LINUX
+                               INTRODUCTION TO OPERATING SYSTEMS  -  LINUX
 
 This repository contains C code from four exercises related to process management and interprocess communication (IPC)
 in Linux. Each exercise demonstrates a key concept, building towards a deeper understanding of Linux process management.
