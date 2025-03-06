@@ -1,0 +1,63 @@
+/***************************************************************************
+  Project     : Programming Languages 1 - Assignment 1 - Exercise 1 (fairseq)
+  Author      : Gkavogiannis Konstantinos (konstantinosg5@gmail.com)
+  Date        : 18 april 2024
+  Description : Brute force solution O(n^3) or less maybe
+  -----------
+  School of ECE, National Technical University of Athens.
+*/
+#include "iostream"
+#include <cstdlib>
+
+using namespace std;
+
+int main(){
+int N, *seq , TotalSum=0, SubSum=0 , best=0, cache;
+//int *subseq ;
+
+//  Reading input
+cin>> N;
+
+seq = (int*) malloc(N * sizeof(int));
+//subseq = (int*) malloc(N * sizeof(int));
+
+for (int i=0; i<N; i++){
+  scanf ("%d",&seq[i]) ; 
+  TotalSum+=seq[i];
+}
+
+best=TotalSum
+//  Starting proccesing
+
+for (int i=0; i <N; i++){//  Pick starting point i
+    
+    for (int j=i; j<N; j++){// Pick ending point j
+        // Print subarray between current starting 
+        // and ending points
+        for (int k=i; k<=j; k++){
+            if(j==N-1) break;
+           // cout << seq[k] << " ";
+            SubSum+=2*seq[k];
+           
+           // if(cache > best) { 
+           //     break; continue;
+           // }
+        } 
+        cache=abs(TotalSum - SubSum );   
+        if( cache < best) best = cache;  
+
+        //cout <<": "<<cache<< endl;
+        //cache=0;
+        SubSum=0;
+
+        //best=SubSum;
+       
+    }
+}
+
+printf("%d\n",best);
+
+free(seq);
+//free(subseq);
+return 0;
+}
