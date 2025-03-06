@@ -55,8 +55,8 @@ This repository is divided into three exercise sets, each covering different pro
 - `minbases.sml` – Logical problem-solving with minimal bases.  
 
 ### **Set 3 (Python & SML/NJ)**  
-- `fairseq.py`  – Reimplementing fairness logic in Python.  
-- `grid.py` / `grid.sml` – Grid-based tasks in Python and functional programming.  
+- `fairseq.py`/ `minbases.py`/ `grid.py`  – Reimplementing logic in Python.  
+- `grid.sml` – Grid-based tasks in functional programming.  
 
 ---
 
