@@ -13,7 +13,8 @@ The goal of this project was to design and implement a **hypothetical database**
 - 📝 Recipes  
 - 🎭 Judges  
 - 📊 Scores and rankings  
-- 🔄 Competition rounds and eliminations  
+- 🔄 Competition rounds and eliminations
+- and many more
 
 ## 🚀 Getting Started  
 
