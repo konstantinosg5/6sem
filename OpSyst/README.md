@@ -33,9 +33,9 @@ The goal of these exercises was to explore how Linux handles processes and how t
 - Understanding **race conditions** and preventing them  
 
 ### 3️⃣ Interprocess Communication (IPC)  
-- 🚦 **Signals** – Handling events such as `SIGINT` and `SIGTERM`  
-- 📡 **Pipes** – Unidirectional communication between related processes  
-- 🌐 **Sockets** – Establishing server-client communication  
+- **Signals** – Handling events such as `SIGINT` and `SIGTERM`  
+- **Pipes** – Unidirectional communication between related processes  
+- **Sockets** – Establishing server-client communication  
 
 ### 4️⃣ Practical Applications  
 - Implementing a **producer-consumer model**  
