@@ -2,7 +2,7 @@
 //   Project     : Programming Languages 1 - Assignment 1 - Exercise 1 (fairseq)
 //   Author      : Gkavogiannis Konstantinos (konstantinosg5@gmail.com)
 //   Date        : 18 april 2024
-//   Description : kinda good solution O(3n) (i think/hope)
+//   Description : kinda good solution O(3n)
 //   -----------
 //   School of ECE, National Technical University of Athens.
 // 
