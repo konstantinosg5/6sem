@@ -43,7 +43,7 @@ Each set of exercises focused on applying these concepts in different ways, help
 
 ## 📂 Repository Contents  
 
-This repository is divided into three exercise sets, each covering different programming paradigms:  
+This repository is divided into three exercise sets, each covering different programming paradigms, each folder condain a pdf file with the exercises' statements and the info needed to run the programs, like inputs and expected outputs:  
 
 ### **Set 1 (C & SML/NJ)**  
 - `fairseq.c` / `fairseq.sml` – Sequence fairness checks.  
