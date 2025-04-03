@@ -2,9 +2,9 @@
 
 This repository contains coursework from the 6th semester, covering three main subjects:  
 
-- **Databases** – Cooking Competition database design and implementation.  
-- **Introduction to Operating Systems** – Process management and interprocess communication (IPC) in Linux.  
-- **Programming Languages 1** – Exercises in multiple programming paradigms using C, Java, Python, SML/NJ, and Prolog.  
+- 📌 **Databases** – Cooking Competition database design and implementation.  
+- 📌**Introduction to Operating Systems** – Process management and interprocess communication (IPC) in Linux.  
+- 📌**Programming Languages 1** – Exercises in multiple programming paradigms using C, Java, Python, SML/NJ, and Prolog.  
 
 ---
 ## 🍽Cooking Competition Database (Databases)  
@@ -34,5 +34,5 @@ Exercises demonstrating different programming paradigms.
 - **Dynamic (Python)** – Scripting, list comprehensions, functional constructs.  
 - Comparison of approaches to problem-solving across paradigms.  
 
-## How to Use This Repository  
+## 📂How to Use This Repository  
 Each folder contains the relevant source code and a **PDF with exercise descriptions**.
