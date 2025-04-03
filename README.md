@@ -2,9 +2,9 @@
 
 This repository contains coursework from the 6th semester, covering three main subjects:  
 
-- 📌 **Databases** – Cooking Competition database design and implementation.  
-- 📌**Introduction to Operating Systems** – Process management and interprocess communication (IPC) in Linux.  
-- 📌**Programming Languages 1** – Exercises in multiple programming paradigms using C, Java, Python, SML/NJ, and Prolog.  
+📌 **Databases** – Cooking Competition database design and implementation.  
+📌**Introduction to Operating Systems** – Process management and interprocess communication (IPC) in Linux.  
+📌**Programming Languages 1** – Exercises in multiple programming paradigms using C, Java, Python, SML/NJ, and Prolog.  
 
 ---
 ## 🍽Cooking Competition Database (Databases)  
@@ -12,7 +12,7 @@ A relational database designed to manage all aspects of a cooking competition.
 
 - Includes tables for episodes, participants, judges, recipes, and scores.  
 - Queries for rankings, episode results, and ingredient usage etc. 
-- Used **MariaDB ** as Dadabase management system
+- Used **MariaDB** as Dadabase management system
 - **Fully documented** with an ER diagram and implementation details.  
 
 ---
